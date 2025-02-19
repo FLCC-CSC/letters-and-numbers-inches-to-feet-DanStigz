@@ -20,7 +20,15 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
-    
+def inchestofeet(inches):
+    feet= inches / 12
+    return feet
+
+inches= float(input('Enter the number of inches:'))
+feet= inchestofeet(inches)
+
+print(f'{inches} inches is equal to {feet} feet')
+
     
     
     
