@@ -20,7 +20,7 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-inches = float(input("Enter the number of inches: "))
+inches = int(input("Enter the number of inches: "))
 feet = inches // 12  
 remaining_inches = inches % 12  
 
