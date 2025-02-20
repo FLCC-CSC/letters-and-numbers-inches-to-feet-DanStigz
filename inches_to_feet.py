@@ -19,18 +19,13 @@
 # but also maybe the number of feet
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-    
-def inchestofeet(inches):
-    feet= inches / 12
-    return feet
 
-inches= float(input('Enter the number of inches:'))
-feet= inchestofeet(inches)
+inches = float(input("Enter the number of inches: "))
+feet = inches // 12  
+remaining_inches = inches % 12  
 
-print(f'{inches} inches is equal to {feet} feet')
-
-    
-    
+print()
+print(f"{inches} inches is {feet} feet, and {remaining_inches} inches")
     
     
     
