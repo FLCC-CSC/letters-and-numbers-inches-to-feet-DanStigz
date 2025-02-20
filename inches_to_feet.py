@@ -69,7 +69,7 @@ Enter the number of inches: 100
 
 1. What does it mean to "cast" input from the user?
 
-
+To "cast" means to take user input and change it into another data type. 
 
 
 
