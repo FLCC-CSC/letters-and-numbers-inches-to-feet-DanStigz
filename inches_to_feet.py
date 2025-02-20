@@ -1,8 +1,8 @@
 # FILE NAME - inches_to_feet.py
 # DRG - Rerun for points 2025-02-18-2347
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Dan Stiglitz
+# DATE: 2/19/25
+# BRIEF DESCRIPTION:  Converting inches to feet, but that pesky "int" needed to be there
 
 
 
